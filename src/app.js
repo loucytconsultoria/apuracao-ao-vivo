@@ -200,7 +200,7 @@
     const quem = esc(nomeCand(c));
     const linhas = [];
     if (ct.dentro) {
-      linhas.push('<b>' + quem + ' está eleito na projeção</b> (' + (si.eleito.fase === 'QP' ? 'quociente partidário' : 'sobras, ' + si.eleito.fase) + '). ' +
+      linhas.push('<b>' + quem + ' está entre os eleitos na projeção</b> (' + (si.eleito.fase === 'QP' ? 'quociente partidário' : 'sobras, ' + si.eleito.fase) + '). ' +
         (ct.perde !== null ? 'Sairia com <b>' + fmtInt(ct.perde) + '</b> votos a menos, mantidos os votos dos outros.' : ''));
     } else {
       linhas.push('<b>' + quem + ' está fora na projeção.</b> ' +

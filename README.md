@@ -2,7 +2,7 @@
 
 **Live election count, in the browser.** A static page (no backend, no build, no cost) that reads the Brazilian electoral court's public result files every 30 seconds and computes, live, the electoral quotient, each party's quotient and the seat allocation by remainders (Electoral Code, arts. 106 to 111, current rules). It shows where a chosen candidate and their party or federation stand. The seat calculation lives in a pure JavaScript module with tests, and was checked against all 399 municipal councils of the state of Paraná in 2024: every one matched the official outcome (3,905 seats, 29 of them decided in the third phase).
 
-Demo without live data: open `index.html?demo=1` (see "Como rodar").
+**Demonstração ao vivo:** [loucytconsultoria.github.io/apuracao-ao-vivo/?demo=1](https://loucytconsultoria.github.io/apuracao-ao-vivo/?demo=1) (modo demo, com dados sintéticos; sem `?demo=1` a página lê o TSE).
 
 ## O problema
 

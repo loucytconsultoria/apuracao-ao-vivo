@@ -1,0 +1,20 @@
+# ambiente e segredos (esta página não usa nenhum, mas fica a salvo)
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+
+# arquivos baixados do TSE na conferência (contêm nomes de candidatos)
+validacao/cache/
+cache/
+*.bak*
+
+# editores e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+node_modules/

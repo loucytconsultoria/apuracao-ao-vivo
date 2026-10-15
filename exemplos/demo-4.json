@@ -1,0 +1,1587 @@
+{
+ "ele": "0",
+ "t": "1",
+ "f": "o",
+ "tpabr": "uf",
+ "cdabr": "me",
+ "dg": "04/10/2026",
+ "hg": "18:45:00",
+ "idg": "1003",
+ "and": "f",
+ "carg": [
+  {
+   "cd": "6",
+   "nmn": "Deputado Federal (exemplo)",
+   "nv": "12",
+   "qe": "98676",
+   "agr": [
+    {
+     "n": "90",
+     "nm": "Federação Frente Cívica",
+     "tp": "f",
+     "com": "PCV/PSM",
+     "vag": "3",
+     "par": [
+      {
+       "n": "91",
+       "sg": "PCV",
+       "nm": "Partido Cívico",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "128430",
+       "tvtl": "13680",
+       "cand": [
+        {
+         "n": "9101",
+         "nm": "HELENA CORVELO",
+         "nmu": "HELENA CORVELO",
+         "dt": "15/01/1989",
+         "dvt": "Válido",
+         "e": "s",
+         "st": "Eleito por QP",
+         "vap": "66501",
+         "pvapn": "5.616102517"
+        },
+        {
+         "n": "9103",
+         "nm": "CANDIDATO 9103",
+         "nmu": "CANDIDATO 9103",
+         "dt": "13/05/1980",
+         "dvt": "Válido",
+         "e": "s",
+         "st": "Eleito por média",
+         "vap": "21299",
+         "pvapn": "1.798730358"
+        },
+        {
+         "n": "9105",
+         "nm": "CANDIDATO 9105",
+         "nmu": "CANDIDATO 9105",
+         "dt": "21/02/1979",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "10389",
+         "pvapn": "0.877365589"
+        },
+        {
+         "n": "9107",
+         "nm": "CANDIDATO 9107",
+         "nmu": "CANDIDATO 9107",
+         "dt": "10/05/1987",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "8253",
+         "pvapn": "0.696977400"
+        },
+        {
+         "n": "9109",
+         "nm": "CANDIDATO 9109",
+         "nmu": "CANDIDATO 9109",
+         "dt": "10/01/1981",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "6509",
+         "pvapn": "0.549694159"
+        },
+        {
+         "n": "9111",
+         "nm": "CANDIDATO 9111",
+         "nmu": "CANDIDATO 9111",
+         "dt": "03/07/1995",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "5092",
+         "pvapn": "0.430026526"
+        },
+        {
+         "n": "9113",
+         "nm": "CANDIDATO 9113",
+         "nmu": "CANDIDATO 9113",
+         "dt": "14/09/1996",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "4226",
+         "pvapn": "0.356891614"
+        },
+        {
+         "n": "9115",
+         "nm": "CANDIDATO 9115",
+         "nmu": "CANDIDATO 9115",
+         "dt": "09/07/1994",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3201",
+         "pvapn": "0.270328930"
+        },
+        {
+         "n": "9117",
+         "nm": "CANDIDATO 9117",
+         "nmu": "CANDIDATO 9117",
+         "dt": "26/01/1994",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2960",
+         "pvapn": "0.249976142"
+        }
+       ]
+      },
+      {
+       "n": "92",
+       "sg": "PSM",
+       "nm": "Partido Social Meridiano",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "85880",
+       "tvtl": "0",
+       "cand": [
+        {
+         "n": "9202",
+         "nm": "CANDIDATO 9202",
+         "nmu": "CANDIDATO 9202",
+         "dt": "22/06/1971",
+         "dvt": "Válido",
+         "e": "s",
+         "st": "Eleito por QP",
+         "vap": "33858",
+         "pvapn": "2.859355484"
+        },
+        {
+         "n": "9204",
+         "nm": "CANDIDATO 9204",
+         "nmu": "CANDIDATO 9204",
+         "dt": "12/07/1990",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "16892",
+         "pvapn": "1.426553040"
+        },
+        {
+         "n": "9206",
+         "nm": "CANDIDATO 9206",
+         "nmu": "CANDIDATO 9206",
+         "dt": "03/09/1992",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "8770",
+         "pvapn": "0.740638773"
+        },
+        {
+         "n": "9208",
+         "nm": "CANDIDATO 9208",
+         "nmu": "CANDIDATO 9208",
+         "dt": "05/11/1994",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "6986",
+         "pvapn": "0.589977477"
+        },
+        {
+         "n": "9210",
+         "nm": "CANDIDATO 9210",
+         "nmu": "CANDIDATO 9210",
+         "dt": "12/08/1985",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "5391",
+         "pvapn": "0.455277495"
+        },
+        {
+         "n": "9212",
+         "nm": "CANDIDATO 9212",
+         "nmu": "CANDIDATO 9212",
+         "dt": "18/08/1965",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "4656",
+         "pvapn": "0.393205716"
+        },
+        {
+         "n": "9214",
+         "nm": "CANDIDATO 9214",
+         "nmu": "CANDIDATO 9214",
+         "dt": "16/07/1991",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3703",
+         "pvapn": "0.312723532"
+        },
+        {
+         "n": "9216",
+         "nm": "CANDIDATO 9216",
+         "nmu": "CANDIDATO 9216",
+         "dt": "16/09/1991",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3074",
+         "pvapn": "0.259603602"
+        },
+        {
+         "n": "9218",
+         "nm": "CANDIDATO 9218",
+         "nmu": "CANDIDATO 9218",
+         "dt": "08/03/1961",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2550",
+         "pvapn": "0.215351069"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "n": "93",
+     "nm": "Partido Horizonte",
+     "tp": "i",
+     "com": "PHZ",
+     "vag": "3",
+     "par": [
+      {
+       "n": "93",
+       "sg": "PHZ",
+       "nm": "Partido Horizonte",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "248148",
+       "tvtl": "15840",
+       "cand": [
+        {
+         "n": "9301",
+         "nm": "CANDIDATO 9301",
+         "nmu": "CANDIDATO 9301",
+         "dt": "21/09/1988",
+         "dvt": "Válido",
+         "e": "s",
+         "st": "Eleito por QP",
+         "vap": "89893",
+         "pvapn": "7.591589654"
+        },
+        {
+         "n": "9302",
+         "nm": "CANDIDATO 9302",
+         "nmu": "CANDIDATO 9302",
+         "dt": "26/07/1985",
+         "dvt": "Válido",
+         "e": "s",
+         "st": "Eleito por QP",
+         "vap": "35818",
+         "pvapn": "3.024880227"
+        },
+        {
+         "n": "9303",
+         "nm": "CANDIDATO 9303",
+         "nmu": "CANDIDATO 9303",
+         "dt": "07/05/1975",
+         "dvt": "Válido",
+         "e": "s",
+         "st": "Eleito por média",
+         "vap": "23455",
+         "pvapn": "1.980807575"
+        },
+        {
+         "n": "9304",
+         "nm": "CANDIDATO 9304",
+         "nmu": "CANDIDATO 9304",
+         "dt": "01/01/1967",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "17073",
+         "pvapn": "1.441838743"
+        },
+        {
+         "n": "9305",
+         "nm": "CANDIDATO 9305",
+         "nmu": "CANDIDATO 9305",
+         "dt": "21/10/1987",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "12138",
+         "pvapn": "1.025071087"
+        },
+        {
+         "n": "9306",
+         "nm": "CANDIDATO 9306",
+         "nmu": "CANDIDATO 9306",
+         "dt": "26/09/1989",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "9392",
+         "pvapn": "0.793167544"
+        },
+        {
+         "n": "9307",
+         "nm": "CANDIDATO 9307",
+         "nmu": "CANDIDATO 9307",
+         "dt": "12/04/1974",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "8976",
+         "pvapn": "0.758035762"
+        },
+        {
+         "n": "9308",
+         "nm": "CANDIDATO 9308",
+         "nmu": "CANDIDATO 9308",
+         "dt": "23/08/1987",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "7980",
+         "pvapn": "0.673922168"
+        },
+        {
+         "n": "9309",
+         "nm": "CANDIDATO 9309",
+         "nmu": "CANDIDATO 9309",
+         "dt": "17/08/1985",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "5924",
+         "pvapn": "0.500290091"
+        },
+        {
+         "n": "9310",
+         "nm": "CANDIDATO 9310",
+         "nmu": "CANDIDATO 9310",
+         "dt": "18/11/1960",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "5592",
+         "pvapn": "0.472252226"
+        },
+        {
+         "n": "9311",
+         "nm": "CANDIDATO 9311",
+         "nmu": "CANDIDATO 9311",
+         "dt": "27/05/1978",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "5269",
+         "pvapn": "0.444974424"
+        },
+        {
+         "n": "9312",
+         "nm": "CANDIDATO 9312",
+         "nmu": "CANDIDATO 9312",
+         "dt": "15/02/1986",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "4822",
+         "pvapn": "0.407224648"
+        },
+        {
+         "n": "9313",
+         "nm": "CANDIDATO 9313",
+         "nmu": "CANDIDATO 9313",
+         "dt": "23/12/1990",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "4702",
+         "pvapn": "0.397090480"
+        },
+        {
+         "n": "9314",
+         "nm": "CANDIDATO 9314",
+         "nmu": "CANDIDATO 9314",
+         "dt": "09/08/1969",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "4340",
+         "pvapn": "0.366519074"
+        },
+        {
+         "n": "9315",
+         "nm": "CANDIDATO 9315",
+         "nmu": "CANDIDATO 9315",
+         "dt": "14/12/1988",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3489",
+         "pvapn": "0.294650933"
+        },
+        {
+         "n": "9316",
+         "nm": "CANDIDATO 9316",
+         "nmu": "CANDIDATO 9316",
+         "dt": "03/11/1975",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3243",
+         "pvapn": "0.273875889"
+        },
+        {
+         "n": "9317",
+         "nm": "CANDIDATO 9317",
+         "nmu": "CANDIDATO 9317",
+         "dt": "16/06/1964",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3159",
+         "pvapn": "0.266781971"
+        },
+        {
+         "n": "9318",
+         "nm": "CANDIDATO 9318",
+         "nmu": "CANDIDATO 9318",
+         "dt": "07/12/1984",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2883",
+         "pvapn": "0.243473385"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "n": "94",
+     "nm": "Partido do Litoral",
+     "tp": "i",
+     "com": "PDL",
+     "vag": "2",
+     "par": [
+      {
+       "n": "94",
+       "sg": "PDL",
+       "nm": "Partido do Litoral",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "191750",
+       "tvtl": "12240",
+       "cand": [
+        {
+         "n": "9401",
+         "nm": "CANDIDATO 9401",
+         "nmu": "CANDIDATO 9401",
+         "dt": "28/08/1966",
+         "dvt": "Válido",
+         "e": "s",
+         "st": "Eleito por QP",
+         "vap": "60037",
+         "pvapn": "5.070208671"
+        },
+        {
+         "n": "9402",
+         "nm": "CANDIDATO 9402",
+         "nmu": "CANDIDATO 9402",
+         "dt": "18/04/1988",
+         "dvt": "Válido",
+         "e": "s",
+         "st": "Eleito por QP",
+         "vap": "34046",
+         "pvapn": "2.875232347"
+        },
+        {
+         "n": "9403",
+         "nm": "CANDIDATO 9403",
+         "nmu": "CANDIDATO 9403",
+         "dt": "19/03/1996",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "16663",
+         "pvapn": "1.407213670"
+        },
+        {
+         "n": "9404",
+         "nm": "CANDIDATO 9404",
+         "nmu": "CANDIDATO 9404",
+         "dt": "23/09/1976",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "13438",
+         "pvapn": "1.134857906"
+        },
+        {
+         "n": "9405",
+         "nm": "CANDIDATO 9405",
+         "nmu": "CANDIDATO 9405",
+         "dt": "03/07/1968",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "10698",
+         "pvapn": "0.903461072"
+        },
+        {
+         "n": "9406",
+         "nm": "CANDIDATO 9406",
+         "nmu": "CANDIDATO 9406",
+         "dt": "05/10/1977",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "9418",
+         "pvapn": "0.795363280"
+        },
+        {
+         "n": "9407",
+         "nm": "CANDIDATO 9407",
+         "nmu": "CANDIDATO 9407",
+         "dt": "17/07/1982",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "7402",
+         "pvapn": "0.625109259"
+        },
+        {
+         "n": "9408",
+         "nm": "CANDIDATO 9408",
+         "nmu": "CANDIDATO 9408",
+         "dt": "26/03/1991",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "5590",
+         "pvapn": "0.472083323"
+        },
+        {
+         "n": "9409",
+         "nm": "CANDIDATO 9409",
+         "nmu": "CANDIDATO 9409",
+         "dt": "26/04/1982",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "4756",
+         "pvapn": "0.401650856"
+        },
+        {
+         "n": "9410",
+         "nm": "CANDIDATO 9410",
+         "nmu": "CANDIDATO 9410",
+         "dt": "01/02/1982",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "4320",
+         "pvapn": "0.364830046"
+        },
+        {
+         "n": "9411",
+         "nm": "CANDIDATO 9411",
+         "nmu": "CANDIDATO 9411",
+         "dt": "03/01/1980",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "4105",
+         "pvapn": "0.346672995"
+        },
+        {
+         "n": "9412",
+         "nm": "CANDIDATO 9412",
+         "nmu": "CANDIDATO 9412",
+         "dt": "21/06/1959",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3788",
+         "pvapn": "0.319901901"
+        },
+        {
+         "n": "9413",
+         "nm": "CANDIDATO 9413",
+         "nmu": "CANDIDATO 9413",
+         "dt": "01/09/1988",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3587",
+         "pvapn": "0.302927170"
+        },
+        {
+         "n": "9414",
+         "nm": "CANDIDATO 9414",
+         "nmu": "CANDIDATO 9414",
+         "dt": "11/11/1977",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3090",
+         "pvapn": "0.260954824"
+        },
+        {
+         "n": "9415",
+         "nm": "CANDIDATO 9415",
+         "nmu": "CANDIDATO 9415",
+         "dt": "15/06/1965",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2906",
+         "pvapn": "0.245415767"
+        },
+        {
+         "n": "9416",
+         "nm": "CANDIDATO 9416",
+         "nmu": "CANDIDATO 9416",
+         "dt": "16/08/1994",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2727",
+         "pvapn": "0.230298966"
+        },
+        {
+         "n": "9417",
+         "nm": "CANDIDATO 9417",
+         "nmu": "CANDIDATO 9417",
+         "dt": "20/03/1967",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2640",
+         "pvapn": "0.222951695"
+        },
+        {
+         "n": "9418",
+         "nm": "CANDIDATO 9418",
+         "nmu": "CANDIDATO 9418",
+         "dt": "19/09/1971",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2539",
+         "pvapn": "0.214422103"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "n": "95",
+     "nm": "Aliança Cidadã",
+     "tp": "i",
+     "com": "ACI",
+     "vag": "2",
+     "par": [
+      {
+       "n": "95",
+       "sg": "ACI",
+       "nm": "Aliança Cidadã",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "142089",
+       "tvtl": "10080",
+       "cand": [
+        {
+         "n": "9501",
+         "nm": "CANDIDATO 9501",
+         "nmu": "CANDIDATO 9501",
+         "dt": "26/09/1966",
+         "dvt": "Válido",
+         "e": "s",
+         "st": "Eleito por QP",
+         "vap": "53283",
+         "pvapn": "4.499823919"
+        },
+        {
+         "n": "9502",
+         "nm": "CANDIDATO 9502",
+         "nmu": "CANDIDATO 9502",
+         "dt": "06/11/1969",
+         "dvt": "Válido",
+         "e": "s",
+         "st": "Eleito por média",
+         "vap": "23296",
+         "pvapn": "1.967379802"
+        },
+        {
+         "n": "9503",
+         "nm": "CANDIDATO 9503",
+         "nmu": "CANDIDATO 9503",
+         "dt": "13/05/1985",
+         "dvt": "Anulado sub judice",
+         "e": "n",
+         "st": "Indeferido",
+         "vap": "15821",
+         "pvapn": "1.336105591"
+        },
+        {
+         "n": "9504",
+         "nm": "CANDIDATO 9504",
+         "nmu": "CANDIDATO 9504",
+         "dt": "18/07/1963",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "11630",
+         "pvapn": "0.982169776"
+        },
+        {
+         "n": "9505",
+         "nm": "CANDIDATO 9505",
+         "nmu": "CANDIDATO 9505",
+         "dt": "13/05/1969",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "7438",
+         "pvapn": "0.628149509"
+        },
+        {
+         "n": "9506",
+         "nm": "CANDIDATO 9506",
+         "nmu": "CANDIDATO 9506",
+         "dt": "12/03/1974",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "6716",
+         "pvapn": "0.567175599"
+        },
+        {
+         "n": "9507",
+         "nm": "CANDIDATO 9507",
+         "nmu": "CANDIDATO 9507",
+         "dt": "15/08/1984",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "5603",
+         "pvapn": "0.473181191"
+        },
+        {
+         "n": "9508",
+         "nm": "CANDIDATO 9508",
+         "nmu": "CANDIDATO 9508",
+         "dt": "10/08/1969",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "5270",
+         "pvapn": "0.445058875"
+        },
+        {
+         "n": "9509",
+         "nm": "CANDIDATO 9509",
+         "nmu": "CANDIDATO 9509",
+         "dt": "11/09/1988",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3900",
+         "pvapn": "0.329360458"
+        },
+        {
+         "n": "9510",
+         "nm": "CANDIDATO 9510",
+         "nmu": "CANDIDATO 9510",
+         "dt": "15/02/1991",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3800",
+         "pvapn": "0.320915318"
+        },
+        {
+         "n": "9511",
+         "nm": "CANDIDATO 9511",
+         "nmu": "CANDIDATO 9511",
+         "dt": "26/09/1975",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3751",
+         "pvapn": "0.316777199"
+        },
+        {
+         "n": "9512",
+         "nm": "CANDIDATO 9512",
+         "nmu": "CANDIDATO 9512",
+         "dt": "27/02/1971",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3075",
+         "pvapn": "0.259688053"
+        },
+        {
+         "n": "9513",
+         "nm": "CANDIDATO 9513",
+         "nmu": "CANDIDATO 9513",
+         "dt": "08/01/1963",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3063",
+         "pvapn": "0.258674637"
+        },
+        {
+         "n": "9514",
+         "nm": "CANDIDATO 9514",
+         "nmu": "CANDIDATO 9514",
+         "dt": "15/11/1979",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2567",
+         "pvapn": "0.216786742"
+        },
+        {
+         "n": "9515",
+         "nm": "CANDIDATO 9515",
+         "nmu": "CANDIDATO 9515",
+         "dt": "14/09/1969",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2495",
+         "pvapn": "0.210706242"
+        },
+        {
+         "n": "9516",
+         "nm": "CANDIDATO 9516",
+         "nmu": "CANDIDATO 9516",
+         "dt": "01/06/1968",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2369",
+         "pvapn": "0.200065365"
+        },
+        {
+         "n": "9517",
+         "nm": "CANDIDATO 9517",
+         "nmu": "CANDIDATO 9517",
+         "dt": "12/09/1994",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "1975",
+         "pvapn": "0.166791514"
+        },
+        {
+         "n": "9518",
+         "nm": "CANDIDATO 9518",
+         "nmu": "CANDIDATO 9518",
+         "dt": "26/09/1971",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "1858",
+         "pvapn": "0.156910700"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "n": "96",
+     "nm": "Movimento Renova",
+     "tp": "i",
+     "com": "MRN",
+     "vag": "1",
+     "par": [
+      {
+       "n": "96",
+       "sg": "MRN",
+       "nm": "Movimento Renova",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "124073",
+       "tvtl": "7920",
+       "cand": [
+        {
+         "n": "9601",
+         "nm": "CANDIDATO 9601",
+         "nmu": "CANDIDATO 9601",
+         "dt": "09/10/1962",
+         "dvt": "Válido",
+         "e": "s",
+         "st": "Eleito por QP",
+         "vap": "38565",
+         "pvapn": "3.256868221"
+        },
+        {
+         "n": "9602",
+         "nm": "CANDIDATO 9602",
+         "nmu": "CANDIDATO 9602",
+         "dt": "10/06/1968",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "20958",
+         "pvapn": "1.769932430"
+        },
+        {
+         "n": "9603",
+         "nm": "CANDIDATO 9603",
+         "nmu": "CANDIDATO 9603",
+         "dt": "09/05/1962",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "12554",
+         "pvapn": "1.060202869"
+        },
+        {
+         "n": "9604",
+         "nm": "CANDIDATO 9604",
+         "nmu": "CANDIDATO 9604",
+         "dt": "01/07/1974",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "9050",
+         "pvapn": "0.764285165"
+        },
+        {
+         "n": "9605",
+         "nm": "CANDIDATO 9605",
+         "nmu": "CANDIDATO 9605",
+         "dt": "14/01/1961",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "6274",
+         "pvapn": "0.529848080"
+        },
+        {
+         "n": "9606",
+         "nm": "CANDIDATO 9606",
+         "nmu": "CANDIDATO 9606",
+         "dt": "04/04/1959",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "5221",
+         "pvapn": "0.440920757"
+        },
+        {
+         "n": "9607",
+         "nm": "CANDIDATO 9607",
+         "nmu": "CANDIDATO 9607",
+         "dt": "10/02/1964",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "4336",
+         "pvapn": "0.366181268"
+        },
+        {
+         "n": "9608",
+         "nm": "CANDIDATO 9608",
+         "nmu": "CANDIDATO 9608",
+         "dt": "22/09/1994",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "4063",
+         "pvapn": "0.343126036"
+        },
+        {
+         "n": "9609",
+         "nm": "CANDIDATO 9609",
+         "nmu": "CANDIDATO 9609",
+         "dt": "28/06/1978",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3149",
+         "pvapn": "0.265937457"
+        },
+        {
+         "n": "9610",
+         "nm": "CANDIDATO 9610",
+         "nmu": "CANDIDATO 9610",
+         "dt": "25/08/1996",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3073",
+         "pvapn": "0.259519151"
+        },
+        {
+         "n": "9611",
+         "nm": "CANDIDATO 9611",
+         "nmu": "CANDIDATO 9611",
+         "dt": "21/11/1960",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2873",
+         "pvapn": "0.242628871"
+        },
+        {
+         "n": "9612",
+         "nm": "CANDIDATO 9612",
+         "nmu": "CANDIDATO 9612",
+         "dt": "13/06/1996",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2413",
+         "pvapn": "0.203781227"
+        },
+        {
+         "n": "9613",
+         "nm": "CANDIDATO 9613",
+         "nmu": "CANDIDATO 9613",
+         "dt": "07/10/1987",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2263",
+         "pvapn": "0.191113517"
+        },
+        {
+         "n": "9614",
+         "nm": "CANDIDATO 9614",
+         "nmu": "CANDIDATO 9614",
+         "dt": "14/11/1965",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2260",
+         "pvapn": "0.190860163"
+        },
+        {
+         "n": "9615",
+         "nm": "CANDIDATO 9615",
+         "nmu": "CANDIDATO 9615",
+         "dt": "22/06/1990",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2069",
+         "pvapn": "0.174729946"
+        },
+        {
+         "n": "9616",
+         "nm": "CANDIDATO 9616",
+         "nmu": "CANDIDATO 9616",
+         "dt": "22/05/1982",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "1745",
+         "pvapn": "0.147367692"
+        },
+        {
+         "n": "9617",
+         "nm": "CANDIDATO 9617",
+         "nmu": "CANDIDATO 9617",
+         "dt": "10/06/1961",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "1631",
+         "pvapn": "0.137740233"
+        },
+        {
+         "n": "9618",
+         "nm": "CANDIDATO 9618",
+         "nmu": "CANDIDATO 9618",
+         "dt": "24/12/1985",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "1576",
+         "pvapn": "0.133095406"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "n": "97",
+     "nm": "União Meridiana",
+     "tp": "i",
+     "com": "UMD",
+     "vag": "1",
+     "par": [
+      {
+       "n": "97",
+       "sg": "UMD",
+       "nm": "União Meridiana",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "101514",
+       "tvtl": "6480",
+       "cand": [
+        {
+         "n": "9701",
+         "nm": "CANDIDATO 9701",
+         "nmu": "CANDIDATO 9701",
+         "dt": "02/12/1965",
+         "dvt": "Válido",
+         "e": "s",
+         "st": "Eleito por QP",
+         "vap": "40529",
+         "pvapn": "3.422730770"
+        },
+        {
+         "n": "9702",
+         "nm": "CANDIDATO 9702",
+         "nmu": "CANDIDATO 9702",
+         "dt": "06/10/1965",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "15326",
+         "pvapn": "1.294302149"
+        },
+        {
+         "n": "9703",
+         "nm": "CANDIDATO 9703",
+         "nmu": "CANDIDATO 9703",
+         "dt": "04/01/1966",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "9766",
+         "pvapn": "0.824752367"
+        },
+        {
+         "n": "9704",
+         "nm": "CANDIDATO 9704",
+         "nmu": "CANDIDATO 9704",
+         "dt": "17/06/1996",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "7894",
+         "pvapn": "0.666659348"
+        },
+        {
+         "n": "9705",
+         "nm": "CANDIDATO 9705",
+         "nmu": "CANDIDATO 9705",
+         "dt": "21/11/1977",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "6179",
+         "pvapn": "0.521825197"
+        },
+        {
+         "n": "9706",
+         "nm": "CANDIDATO 9706",
+         "nmu": "CANDIDATO 9706",
+         "dt": "01/07/1995",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "5215",
+         "pvapn": "0.440414048"
+        },
+        {
+         "n": "9707",
+         "nm": "CANDIDATO 9707",
+         "nmu": "CANDIDATO 9707",
+         "dt": "05/06/1984",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3646",
+         "pvapn": "0.307909803"
+        },
+        {
+         "n": "9708",
+         "nm": "CANDIDATO 9708",
+         "nmu": "CANDIDATO 9708",
+         "dt": "13/07/1973",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3247",
+         "pvapn": "0.274213694"
+        },
+        {
+         "n": "9709",
+         "nm": "CANDIDATO 9709",
+         "nmu": "CANDIDATO 9709",
+         "dt": "25/07/1972",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2983",
+         "pvapn": "0.251918525"
+        },
+        {
+         "n": "9710",
+         "nm": "CANDIDATO 9710",
+         "nmu": "CANDIDATO 9710",
+         "dt": "25/03/1969",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2625",
+         "pvapn": "0.221684924"
+        },
+        {
+         "n": "9711",
+         "nm": "CANDIDATO 9711",
+         "nmu": "CANDIDATO 9711",
+         "dt": "18/01/1992",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2205",
+         "pvapn": "0.186215336"
+        },
+        {
+         "n": "9712",
+         "nm": "CANDIDATO 9712",
+         "nmu": "CANDIDATO 9712",
+         "dt": "22/09/1983",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "1899",
+         "pvapn": "0.160373208"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "n": "98",
+     "nm": "Partido Trabalho e Terra",
+     "tp": "i",
+     "com": "PTT",
+     "vag": "0",
+     "par": [
+      {
+       "n": "98",
+       "sg": "PTT",
+       "nm": "Partido Trabalho e Terra",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "56395",
+       "tvtl": "3600",
+       "cand": [
+        {
+         "n": "9801",
+         "nm": "CANDIDATO 9801",
+         "nmu": "CANDIDATO 9801",
+         "dt": "28/09/1974",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "22677",
+         "pvapn": "1.915104386"
+        },
+        {
+         "n": "9802",
+         "nm": "CANDIDATO 9802",
+         "nmu": "CANDIDATO 9802",
+         "dt": "11/11/1991",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "9937",
+         "pvapn": "0.839193557"
+        },
+        {
+         "n": "9803",
+         "nm": "CANDIDATO 9803",
+         "nmu": "CANDIDATO 9803",
+         "dt": "25/12/1978",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "5272",
+         "pvapn": "0.445227778"
+        },
+        {
+         "n": "9804",
+         "nm": "CANDIDATO 9804",
+         "nmu": "CANDIDATO 9804",
+         "dt": "02/11/1958",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3525",
+         "pvapn": "0.297691183"
+        },
+        {
+         "n": "9805",
+         "nm": "CANDIDATO 9805",
+         "nmu": "CANDIDATO 9805",
+         "dt": "21/04/1988",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3229",
+         "pvapn": "0.272693569"
+        },
+        {
+         "n": "9806",
+         "nm": "CANDIDATO 9806",
+         "nmu": "CANDIDATO 9806",
+         "dt": "02/04/1990",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2523",
+         "pvapn": "0.213070881"
+        },
+        {
+         "n": "9807",
+         "nm": "CANDIDATO 9807",
+         "nmu": "CANDIDATO 9807",
+         "dt": "28/03/1983",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2464",
+         "pvapn": "0.208088248"
+        },
+        {
+         "n": "9808",
+         "nm": "CANDIDATO 9808",
+         "nmu": "CANDIDATO 9808",
+         "dt": "23/06/1972",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "1684",
+         "pvapn": "0.142216157"
+        },
+        {
+         "n": "9809",
+         "nm": "CANDIDATO 9809",
+         "nmu": "CANDIDATO 9809",
+         "dt": "18/05/1979",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "1656",
+         "pvapn": "0.139851518"
+        },
+        {
+         "n": "9810",
+         "nm": "CANDIDATO 9810",
+         "nmu": "CANDIDATO 9810",
+         "dt": "28/04/1981",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "1260",
+         "pvapn": "0.106408763"
+        },
+        {
+         "n": "9811",
+         "nm": "CANDIDATO 9811",
+         "nmu": "CANDIDATO 9811",
+         "dt": "12/08/1987",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "1164",
+         "pvapn": "0.098301429"
+        },
+        {
+         "n": "9812",
+         "nm": "CANDIDATO 9812",
+         "nmu": "CANDIDATO 9812",
+         "dt": "18/08/1995",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "1004",
+         "pvapn": "0.084789205"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "n": "99",
+     "nm": "Partido Novo Rumo",
+     "tp": "i",
+     "com": "PNR",
+     "vag": "0",
+     "par": [
+      {
+       "n": "99",
+       "sg": "PNR",
+       "nm": "Partido Novo Rumo",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "33834",
+       "tvtl": "2160",
+       "cand": [
+        {
+         "n": "9901",
+         "nm": "CANDIDATO 9901",
+         "nmu": "CANDIDATO 9901",
+         "dt": "18/12/1974",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "12551",
+         "pvapn": "1.059949515"
+        },
+        {
+         "n": "9902",
+         "nm": "CANDIDATO 9902",
+         "nmu": "CANDIDATO 9902",
+         "dt": "05/12/1964",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "5379",
+         "pvapn": "0.454264078"
+        },
+        {
+         "n": "9903",
+         "nm": "CANDIDATO 9903",
+         "nmu": "CANDIDATO 9903",
+         "dt": "01/09/1971",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "3659",
+         "pvapn": "0.309007671"
+        },
+        {
+         "n": "9904",
+         "nm": "CANDIDATO 9904",
+         "nmu": "CANDIDATO 9904",
+         "dt": "28/12/1995",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "2688",
+         "pvapn": "0.227005362"
+        },
+        {
+         "n": "9905",
+         "nm": "CANDIDATO 9905",
+         "nmu": "CANDIDATO 9905",
+         "dt": "10/10/1960",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "1779",
+         "pvapn": "0.150239040"
+        },
+        {
+         "n": "9906",
+         "nm": "CANDIDATO 9906",
+         "nmu": "CANDIDATO 9906",
+         "dt": "13/07/1992",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "1620",
+         "pvapn": "0.136811267"
+        },
+        {
+         "n": "9907",
+         "nm": "CANDIDATO 9907",
+         "nmu": "CANDIDATO 9907",
+         "dt": "17/11/1968",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "1613",
+         "pvapn": "0.136220107"
+        },
+        {
+         "n": "9908",
+         "nm": "CANDIDATO 9908",
+         "nmu": "CANDIDATO 9908",
+         "dt": "17/02/1963",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "1225",
+         "pvapn": "0.103452964"
+        },
+        {
+         "n": "9909",
+         "nm": "CANDIDATO 9909",
+         "nmu": "CANDIDATO 9909",
+         "dt": "05/12/1982",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "1033",
+         "pvapn": "0.087238296"
+        },
+        {
+         "n": "9910",
+         "nm": "CANDIDATO 9910",
+         "nmu": "CANDIDATO 9910",
+         "dt": "11/09/1974",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "810",
+         "pvapn": "0.068405634"
+        },
+        {
+         "n": "9911",
+         "nm": "CANDIDATO 9911",
+         "nmu": "CANDIDATO 9911",
+         "dt": "10/01/1995",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "760",
+         "pvapn": "0.064183064"
+        },
+        {
+         "n": "9912",
+         "nm": "CANDIDATO 9912",
+         "nmu": "CANDIDATO 9912",
+         "dt": "22/04/1968",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "Suplente",
+         "vap": "717",
+         "pvapn": "0.060551653"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "s": {
+  "ts": "8400",
+  "st": "8400",
+  "pst": "100,00",
+  "pstn": "100.00"
+ },
+ "v": {
+  "vv": "1184113"
+ }
+}

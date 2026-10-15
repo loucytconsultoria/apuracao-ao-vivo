@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Testes de vagas.js</title>
+  <style>
+    body { font: 15px/1.5 system-ui, sans-serif; max-width: 860px; margin: 24px auto; padding: 0 16px; color: #1b1f24; background: #fff; }
+    @media (prefers-color-scheme: dark) { body { background: #12151a; color: #e8ebef; } }
+    h1 { font-size: 1.3rem; }
+    li { margin: 4px 0; list-style: none; }
+    .ok::before { content: "✔ "; color: #1a7f4b; }
+    .falha::before { content: "✘ "; color: #b3261e; }
+    .falha { color: #b3261e; }
+    #resumo { font-weight: 700; margin: 12px 0; }
+  </style>
+</head>
+<body>
+  <h1>Testes de src/vagas.js</h1>
+  <p>Abra esta página por um servidor local (<code>python -m http.server</code>, depois <code>/tests/tests.html</code>): os casos reais são lidos de <code>tests/dados/</code>.</p>
+  <p id="resumo">Rodando…</p>
+  <ul id="lista"></ul>
+  <script src="../src/vagas.js"></script>
+  <script src="casos.js"></script>
+  <script>
+    (function () {
+      function carregar(caminho) {
+        return fetch(caminho).then(function (r) {
+          if (!r.ok) { throw new Error('não consegui ler ' + caminho + ' (' + r.status + ')'); }
+          return r.json();
+        });
+      }
+      rodarTestes(Vagas, carregar).then(function (resultados) {
+        var falhas = resultados.filter(function (r) { return !r.ok; });
+        document.getElementById('lista').innerHTML = resultados.map(function (r) {
+          return '<li class="' + (r.ok ? 'ok' : 'falha') + '">' + r.nome.replace(/</g, '&lt;') + (r.ok ? '' : '<br><small>' + String(r.erro).replace(/</g, '&lt;') + '</small>') + '</li>';
+        }).join('');
+        var txt = falhas.length ? falhas.length + ' de ' + resultados.length + ' testes falharam' : 'Todos os ' + resultados.length + ' testes passaram';
+        document.getElementById('resumo').textContent = txt;
+        document.title = (falhas.length ? 'FALHOU' : 'OK') + ' · ' + txt;
+      });
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,2804 @@
+{
+ "eleicao": "Câmaras municipais do Paraná, 2024 (vereador)",
+ "municipios_lidos": 399,
+ "municipios_nao_lidos": 0,
+ "camaras_iguais_ao_tse": 399,
+ "camaras_com_diferenca": 0,
+ "cadeiras": 3905,
+ "cadeiras_na_terceira_fase": 29,
+ "municipios": {
+  "74012": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74039": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74055": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74071": {
+   "vagas": 15,
+   "cadeiras": 15,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "84557": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79510": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74098": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74110": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74136": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74152": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74179": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74101": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74195": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74128": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74217": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74233": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74250": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74276": {
+   "vagas": 15,
+   "cadeiras": 15,
+   "terceira_fase": 1,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74292": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75108": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74314": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74357": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75086": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74373": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79537": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74390": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74411": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74438": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74454": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74470": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74497": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74519": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75124": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74535": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74551": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74578": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74144": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75140": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79812": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74594": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75167": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74616": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74160": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74632": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79839": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74187": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74659": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79855": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74209": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74675": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74691": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74713": {
+   "vagas": 10,
+   "cadeiras": 10,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74730": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74756": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75183": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74772": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74780": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74799": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74810": {
+   "vagas": 15,
+   "cadeiras": 15,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75205": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74837": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74853": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74225": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "84514": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74870": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74896": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75221": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74918": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74934": {
+   "vagas": 21,
+   "cadeiras": 21,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74950": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74977": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74993": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75019": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79570": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75035": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75051": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 4,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75078": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75094": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75132": {
+   "vagas": 17,
+   "cadeiras": 17,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75159": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75175": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75191": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75213": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 5,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75230": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75256": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75248": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75272": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75280": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74241": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75299": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75310": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75337": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75264": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75353": {
+   "vagas": 38,
+   "cadeiras": 38,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75370": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75396": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74268": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75400": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75418": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "84654": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75434": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75450": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75477": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75302": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74284": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75329": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74306": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75493": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 1,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74322": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75515": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75345": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "84573": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75531": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74349": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75558": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75574": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75590": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75612": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75639": {
+   "vagas": 15,
+   "cadeiras": 15,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79774": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75655": {
+   "vagas": 17,
+   "cadeiras": 17,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75361": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75671": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74004": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75698": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75388": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79596": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75710": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75736": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75426": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75752": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75779": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75795": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75817": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75833": {
+   "vagas": 21,
+   "cadeiras": 21,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75850": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75876": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74365": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75892": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74020": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75914": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75930": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75957": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74381": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75442": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 1,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75973": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75990": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76015": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79618": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76031": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76058": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74403": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76074": {
+   "vagas": 10,
+   "cadeiras": 10,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76090": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76112": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75000": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76139": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76155": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76171": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74446": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76198": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76210": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76236": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74462": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76252": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76279": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76295": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76317": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76333": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76350": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76376": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76392": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76414": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76430": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76457": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76473": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79979": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76490": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76511": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "84638": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76538": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76554": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76570": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74985": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76597": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76619": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74489": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74047": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76635": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76651": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76678": {
+   "vagas": 19,
+   "cadeiras": 19,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75809": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "84590": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76694": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76716": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76732": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76759": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76775": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76791": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75469": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75116": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76813": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76830": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76856": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76872": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 4,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74330": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79758": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76899": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76910": {
+   "vagas": 23,
+   "cadeiras": 23,
+   "terceira_fase": 1,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76937": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74500": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76953": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75485": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76970": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "76996": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79634": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 1,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74527": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74543": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77011": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74560": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77038": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77054": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "84697": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77070": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77097": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77119": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77135": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77151": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77178": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79650": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77194": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77216": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75027": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77232": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74586": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77259": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79677": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74608": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79790": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79952": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 1,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75760": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74420": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77275": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77291": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74063": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77313": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77330": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77356": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 2,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77372": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77399": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77410": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77437": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77453": {
+   "vagas": 19,
+   "cadeiras": 19,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77470": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77496": {
+   "vagas": 15,
+   "cadeiras": 15,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74624": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77518": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77534": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77550": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77577": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75507": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79693": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77593": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77615": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75043": {
+   "vagas": 17,
+   "cadeiras": 17,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77631": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74640": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77658": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77674": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77690": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77712": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74667": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77739": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77755": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77771": {
+   "vagas": 19,
+   "cadeiras": 19,
+   "terceira_fase": 1,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75523": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 1,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77798": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77810": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75540": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77836": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77852": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75566": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79910": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77879": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77895": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77917": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75582": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77933": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77950": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74683": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79553": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77976": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "77992": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78018": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74705": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78034": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74721": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78050": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78077": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78093": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78115": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75604": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78131": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78158": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78174": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78190": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74748": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75620": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78212": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78239": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 2,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78255": {
+   "vagas": 10,
+   "cadeiras": 10,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78271": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78298": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75744": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78310": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78336": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78352": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78379": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78395": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78417": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78433": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78450": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79715": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78476": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78492": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78514": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74764": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74802": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78530": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74829": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78557": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74080": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "84670": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78590": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78611": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78638": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78573": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78654": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78670": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78697": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78719": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78735": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78751": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78778": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78816": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78794": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79995": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78832": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "84719": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78859": {
+   "vagas": 21,
+   "cadeiras": 21,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74845": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78875": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78891": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74861": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78913": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78930": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78956": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78972": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "78999": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "84611": {
+   "vagas": 10,
+   "cadeiras": 10,
+   "terceira_fase": 3,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75060": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79014": {
+   "vagas": 11,
+   "cadeiras": 11,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75647": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79030": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79057": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79073": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75787": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "75663": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79090": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79111": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79731": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79138": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79154": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79170": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79197": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79219": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79235": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79251": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79278": {
+   "vagas": 19,
+   "cadeiras": 19,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79294": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79871": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74888": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79316": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79936": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "84530": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79332": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79359": {
+   "vagas": 10,
+   "cadeiras": 10,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79375": {
+   "vagas": 13,
+   "cadeiras": 13,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79391": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79413": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79430": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74900": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79898": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79456": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74926": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74942": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "74969": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79472": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 1,
+   "igual": true,
+   "diferencas": 0
+  },
+  "79499": {
+   "vagas": 9,
+   "cadeiras": 9,
+   "terceira_fase": 0,
+   "igual": true,
+   "diferencas": 0
+  }
+ }
+}

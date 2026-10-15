@@ -1,0 +1,1587 @@
+{
+ "ele": "0",
+ "t": "1",
+ "f": "o",
+ "tpabr": "uf",
+ "cdabr": "me",
+ "dg": "04/10/2026",
+ "hg": "17:20:00",
+ "idg": "1000",
+ "and": "n",
+ "carg": [
+  {
+   "cd": "6",
+   "nmn": "Deputado Federal (exemplo)",
+   "nv": "12",
+   "qe": "17911",
+   "agr": [
+    {
+     "n": "90",
+     "nm": "Federação Frente Cívica",
+     "tp": "f",
+     "com": "PCV/PSM",
+     "vag": "0",
+     "par": [
+      {
+       "n": "91",
+       "sg": "PCV",
+       "nm": "Partido Cívico",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "22393",
+       "tvtl": "2462",
+       "cand": [
+        {
+         "n": "9101",
+         "nm": "HELENA CORVELO",
+         "nmu": "HELENA CORVELO",
+         "dt": "15/01/1989",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "11754",
+         "pvapn": "5.468630051"
+        },
+        {
+         "n": "9103",
+         "nm": "CANDIDATO 9103",
+         "nmu": "CANDIDATO 9103",
+         "dt": "13/05/1980",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "3629",
+         "pvapn": "1.688417429"
+        },
+        {
+         "n": "9105",
+         "nm": "CANDIDATO 9105",
+         "nmu": "CANDIDATO 9105",
+         "dt": "21/02/1979",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1781",
+         "pvapn": "0.828622607"
+        },
+        {
+         "n": "9107",
+         "nm": "CANDIDATO 9107",
+         "nmu": "CANDIDATO 9107",
+         "dt": "10/05/1987",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1435",
+         "pvapn": "0.667643706"
+        },
+        {
+         "n": "9109",
+         "nm": "CANDIDATO 9109",
+         "nmu": "CANDIDATO 9109",
+         "dt": "10/01/1981",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1133",
+         "pvapn": "0.527136111"
+        },
+        {
+         "n": "9111",
+         "nm": "CANDIDATO 9111",
+         "nmu": "CANDIDATO 9111",
+         "dt": "03/07/1995",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "871",
+         "pvapn": "0.405238793"
+        },
+        {
+         "n": "9113",
+         "nm": "CANDIDATO 9113",
+         "nmu": "CANDIDATO 9113",
+         "dt": "14/09/1996",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "741",
+         "pvapn": "0.344755391"
+        },
+        {
+         "n": "9115",
+         "nm": "CANDIDATO 9115",
+         "nmu": "CANDIDATO 9115",
+         "dt": "09/07/1994",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "553",
+         "pvapn": "0.257287087"
+        },
+        {
+         "n": "9117",
+         "nm": "CANDIDATO 9117",
+         "nmu": "CANDIDATO 9117",
+         "dt": "26/01/1994",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "496",
+         "pvapn": "0.230767441"
+        }
+       ]
+      },
+      {
+       "n": "92",
+       "sg": "PSM",
+       "nm": "Partido Social Meridiano",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "14807",
+       "tvtl": "0",
+       "cand": [
+        {
+         "n": "9202",
+         "nm": "CANDIDATO 9202",
+         "nmu": "CANDIDATO 9202",
+         "dt": "22/06/1971",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "5772",
+         "pvapn": "2.685463047"
+        },
+        {
+         "n": "9204",
+         "nm": "CANDIDATO 9204",
+         "nmu": "CANDIDATO 9204",
+         "dt": "12/07/1990",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "2851",
+         "pvapn": "1.326447531"
+        },
+        {
+         "n": "9206",
+         "nm": "CANDIDATO 9206",
+         "nmu": "CANDIDATO 9206",
+         "dt": "03/09/1992",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1557",
+         "pvapn": "0.724405053"
+        },
+        {
+         "n": "9208",
+         "nm": "CANDIDATO 9208",
+         "nmu": "CANDIDATO 9208",
+         "dt": "05/11/1994",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1231",
+         "pvapn": "0.572731291"
+        },
+        {
+         "n": "9210",
+         "nm": "CANDIDATO 9210",
+         "nmu": "CANDIDATO 9210",
+         "dt": "12/08/1985",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "955",
+         "pvapn": "0.444320376"
+        },
+        {
+         "n": "9212",
+         "nm": "CANDIDATO 9212",
+         "nmu": "CANDIDATO 9212",
+         "dt": "18/08/1965",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "816",
+         "pvapn": "0.379649662"
+        },
+        {
+         "n": "9214",
+         "nm": "CANDIDATO 9214",
+         "nmu": "CANDIDATO 9214",
+         "dt": "16/07/1991",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "653",
+         "pvapn": "0.303812781"
+        },
+        {
+         "n": "9216",
+         "nm": "CANDIDATO 9216",
+         "nmu": "CANDIDATO 9216",
+         "dt": "16/09/1991",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "537",
+         "pvapn": "0.249842976"
+        },
+        {
+         "n": "9218",
+         "nm": "CANDIDATO 9218",
+         "nmu": "CANDIDATO 9218",
+         "dt": "08/03/1961",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "435",
+         "pvapn": "0.202386768"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "n": "93",
+     "nm": "Partido Horizonte",
+     "tp": "i",
+     "com": "PHZ",
+     "vag": "0",
+     "par": [
+      {
+       "n": "93",
+       "sg": "PHZ",
+       "nm": "Partido Horizonte",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "49460",
+       "tvtl": "2851",
+       "cand": [
+        {
+         "n": "9301",
+         "nm": "CANDIDATO 9301",
+         "nmu": "CANDIDATO 9301",
+         "dt": "21/09/1988",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "17783",
+         "pvapn": "8.273664131"
+        },
+        {
+         "n": "9302",
+         "nm": "CANDIDATO 9302",
+         "nmu": "CANDIDATO 9302",
+         "dt": "26/07/1985",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "7035",
+         "pvapn": "3.273082560"
+        },
+        {
+         "n": "9303",
+         "nm": "CANDIDATO 9303",
+         "nmu": "CANDIDATO 9303",
+         "dt": "07/05/1975",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "4632",
+         "pvapn": "2.155070137"
+        },
+        {
+         "n": "9304",
+         "nm": "CANDIDATO 9304",
+         "nmu": "CANDIDATO 9304",
+         "dt": "01/01/1967",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "3485",
+         "pvapn": "1.621420429"
+        },
+        {
+         "n": "9305",
+         "nm": "CANDIDATO 9305",
+         "nmu": "CANDIDATO 9305",
+         "dt": "21/10/1987",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "2483",
+         "pvapn": "1.155232977"
+        },
+        {
+         "n": "9306",
+         "nm": "CANDIDATO 9306",
+         "nmu": "CANDIDATO 9306",
+         "dt": "26/09/1989",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1928",
+         "pvapn": "0.897015377"
+        },
+        {
+         "n": "9307",
+         "nm": "CANDIDATO 9307",
+         "nmu": "CANDIDATO 9307",
+         "dt": "12/04/1974",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1851",
+         "pvapn": "0.861190593"
+        },
+        {
+         "n": "9308",
+         "nm": "CANDIDATO 9308",
+         "nmu": "CANDIDATO 9308",
+         "dt": "23/08/1987",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1570",
+         "pvapn": "0.730453393"
+        },
+        {
+         "n": "9309",
+         "nm": "CANDIDATO 9309",
+         "nmu": "CANDIDATO 9309",
+         "dt": "17/08/1985",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1183",
+         "pvapn": "0.550398958"
+        },
+        {
+         "n": "9310",
+         "nm": "CANDIDATO 9310",
+         "nmu": "CANDIDATO 9310",
+         "dt": "18/11/1960",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1132",
+         "pvapn": "0.526670854"
+        },
+        {
+         "n": "9311",
+         "nm": "CANDIDATO 9311",
+         "nmu": "CANDIDATO 9311",
+         "dt": "27/05/1978",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1071",
+         "pvapn": "0.498290181"
+        },
+        {
+         "n": "9312",
+         "nm": "CANDIDATO 9312",
+         "nmu": "CANDIDATO 9312",
+         "dt": "15/02/1986",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "959",
+         "pvapn": "0.446181404"
+        },
+        {
+         "n": "9313",
+         "nm": "CANDIDATO 9313",
+         "nmu": "CANDIDATO 9313",
+         "dt": "23/12/1990",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "928",
+         "pvapn": "0.431758439"
+        },
+        {
+         "n": "9314",
+         "nm": "CANDIDATO 9314",
+         "nmu": "CANDIDATO 9314",
+         "dt": "09/08/1969",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "868",
+         "pvapn": "0.403843022"
+        },
+        {
+         "n": "9315",
+         "nm": "CANDIDATO 9315",
+         "nmu": "CANDIDATO 9315",
+         "dt": "14/12/1988",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "688",
+         "pvapn": "0.320096773"
+        },
+        {
+         "n": "9316",
+         "nm": "CANDIDATO 9316",
+         "nmu": "CANDIDATO 9316",
+         "dt": "03/11/1975",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "668",
+         "pvapn": "0.310791635"
+        },
+        {
+         "n": "9317",
+         "nm": "CANDIDATO 9317",
+         "nmu": "CANDIDATO 9317",
+         "dt": "16/06/1964",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "622",
+         "pvapn": "0.289389816"
+        },
+        {
+         "n": "9318",
+         "nm": "CANDIDATO 9318",
+         "nmu": "CANDIDATO 9318",
+         "dt": "07/12/1984",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "574",
+         "pvapn": "0.267057482"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "n": "94",
+     "nm": "Partido do Litoral",
+     "tp": "i",
+     "com": "PDL",
+     "vag": "0",
+     "par": [
+      {
+       "n": "94",
+       "sg": "PDL",
+       "nm": "Partido do Litoral",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "35645",
+       "tvtl": "2203",
+       "cand": [
+        {
+         "n": "9401",
+         "nm": "CANDIDATO 9401",
+         "nmu": "CANDIDATO 9401",
+         "dt": "28/08/1966",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "11115",
+         "pvapn": "5.171330867"
+        },
+        {
+         "n": "9402",
+         "nm": "CANDIDATO 9402",
+         "nmu": "CANDIDATO 9402",
+         "dt": "18/04/1988",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "6233",
+         "pvapn": "2.899946495"
+        },
+        {
+         "n": "9403",
+         "nm": "CANDIDATO 9403",
+         "nmu": "CANDIDATO 9403",
+         "dt": "19/03/1996",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "3117",
+         "pvapn": "1.450205876"
+        },
+        {
+         "n": "9404",
+         "nm": "CANDIDATO 9404",
+         "nmu": "CANDIDATO 9404",
+         "dt": "23/09/1976",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "2517",
+         "pvapn": "1.171051713"
+        },
+        {
+         "n": "9405",
+         "nm": "CANDIDATO 9405",
+         "nmu": "CANDIDATO 9405",
+         "dt": "03/07/1968",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "2011",
+         "pvapn": "0.935631703"
+        },
+        {
+         "n": "9406",
+         "nm": "CANDIDATO 9406",
+         "nmu": "CANDIDATO 9406",
+         "dt": "05/10/1977",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1737",
+         "pvapn": "0.808151302"
+        },
+        {
+         "n": "9407",
+         "nm": "CANDIDATO 9407",
+         "nmu": "CANDIDATO 9407",
+         "dt": "17/07/1982",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1375",
+         "pvapn": "0.639728290"
+        },
+        {
+         "n": "9408",
+         "nm": "CANDIDATO 9408",
+         "nmu": "CANDIDATO 9408",
+         "dt": "26/03/1991",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1067",
+         "pvapn": "0.496429153"
+        },
+        {
+         "n": "9409",
+         "nm": "CANDIDATO 9409",
+         "nmu": "CANDIDATO 9409",
+         "dt": "26/04/1982",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "913",
+         "pvapn": "0.424779585"
+        },
+        {
+         "n": "9410",
+         "nm": "CANDIDATO 9410",
+         "nmu": "CANDIDATO 9410",
+         "dt": "01/02/1982",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "801",
+         "pvapn": "0.372670807"
+        },
+        {
+         "n": "9411",
+         "nm": "CANDIDATO 9411",
+         "nmu": "CANDIDATO 9411",
+         "dt": "03/01/1980",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "749",
+         "pvapn": "0.348477447"
+        },
+        {
+         "n": "9412",
+         "nm": "CANDIDATO 9412",
+         "nmu": "CANDIDATO 9412",
+         "dt": "21/06/1959",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "730",
+         "pvapn": "0.339637565"
+        },
+        {
+         "n": "9413",
+         "nm": "CANDIDATO 9413",
+         "nmu": "CANDIDATO 9413",
+         "dt": "01/09/1988",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "684",
+         "pvapn": "0.318235746"
+        },
+        {
+         "n": "9414",
+         "nm": "CANDIDATO 9414",
+         "nmu": "CANDIDATO 9414",
+         "dt": "11/11/1977",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "588",
+         "pvapn": "0.273571080"
+        },
+        {
+         "n": "9415",
+         "nm": "CANDIDATO 9415",
+         "nmu": "CANDIDATO 9415",
+         "dt": "15/06/1965",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "536",
+         "pvapn": "0.249377719"
+        },
+        {
+         "n": "9416",
+         "nm": "CANDIDATO 9416",
+         "nmu": "CANDIDATO 9416",
+         "dt": "16/08/1994",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "515",
+         "pvapn": "0.239607323"
+        },
+        {
+         "n": "9417",
+         "nm": "CANDIDATO 9417",
+         "nmu": "CANDIDATO 9417",
+         "dt": "20/03/1967",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "484",
+         "pvapn": "0.225184358"
+        },
+        {
+         "n": "9418",
+         "nm": "CANDIDATO 9418",
+         "nmu": "CANDIDATO 9418",
+         "dt": "19/09/1971",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "473",
+         "pvapn": "0.220066532"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "n": "95",
+     "nm": "Aliança Cidadã",
+     "tp": "i",
+     "com": "ACI",
+     "vag": "0",
+     "par": [
+      {
+       "n": "95",
+       "sg": "ACI",
+       "nm": "Aliança Cidadã",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "23493",
+       "tvtl": "1814",
+       "cand": [
+        {
+         "n": "9501",
+         "nm": "CANDIDATO 9501",
+         "nmu": "CANDIDATO 9501",
+         "dt": "26/09/1966",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "8837",
+         "pvapn": "4.111475562"
+        },
+        {
+         "n": "9502",
+         "nm": "CANDIDATO 9502",
+         "nmu": "CANDIDATO 9502",
+         "dt": "06/11/1969",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "3808",
+         "pvapn": "1.771698420"
+        },
+        {
+         "n": "9503",
+         "nm": "CANDIDATO 9503",
+         "nmu": "CANDIDATO 9503",
+         "dt": "13/05/1985",
+         "dvt": "Anulado sub judice",
+         "e": "n",
+         "st": "Indeferido",
+         "vap": "2676",
+         "pvapn": "1.245027566"
+        },
+        {
+         "n": "9504",
+         "nm": "CANDIDATO 9504",
+         "nmu": "CANDIDATO 9504",
+         "dt": "18/07/1963",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1939",
+         "pvapn": "0.902133203"
+        },
+        {
+         "n": "9505",
+         "nm": "CANDIDATO 9505",
+         "nmu": "CANDIDATO 9505",
+         "dt": "13/05/1969",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1228",
+         "pvapn": "0.571335520"
+        },
+        {
+         "n": "9506",
+         "nm": "CANDIDATO 9506",
+         "nmu": "CANDIDATO 9506",
+         "dt": "12/03/1974",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1097",
+         "pvapn": "0.510386861"
+        },
+        {
+         "n": "9507",
+         "nm": "CANDIDATO 9507",
+         "nmu": "CANDIDATO 9507",
+         "dt": "15/08/1984",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "908",
+         "pvapn": "0.422453300"
+        },
+        {
+         "n": "9508",
+         "nm": "CANDIDATO 9508",
+         "nmu": "CANDIDATO 9508",
+         "dt": "10/08/1969",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "868",
+         "pvapn": "0.403843022"
+        },
+        {
+         "n": "9509",
+         "nm": "CANDIDATO 9509",
+         "nmu": "CANDIDATO 9509",
+         "dt": "11/09/1988",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "658",
+         "pvapn": "0.306139065"
+        },
+        {
+         "n": "9510",
+         "nm": "CANDIDATO 9510",
+         "nmu": "CANDIDATO 9510",
+         "dt": "15/02/1991",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "643",
+         "pvapn": "0.299160211"
+        },
+        {
+         "n": "9511",
+         "nm": "CANDIDATO 9511",
+         "nmu": "CANDIDATO 9511",
+         "dt": "26/09/1975",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "629",
+         "pvapn": "0.292646614"
+        },
+        {
+         "n": "9512",
+         "nm": "CANDIDATO 9512",
+         "nmu": "CANDIDATO 9512",
+         "dt": "27/02/1971",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "503",
+         "pvapn": "0.234024240"
+        },
+        {
+         "n": "9513",
+         "nm": "CANDIDATO 9513",
+         "nmu": "CANDIDATO 9513",
+         "dt": "08/01/1963",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "516",
+         "pvapn": "0.240072580"
+        },
+        {
+         "n": "9514",
+         "nm": "CANDIDATO 9514",
+         "nmu": "CANDIDATO 9514",
+         "dt": "15/11/1979",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "426",
+         "pvapn": "0.198199456"
+        },
+        {
+         "n": "9515",
+         "nm": "CANDIDATO 9515",
+         "nmu": "CANDIDATO 9515",
+         "dt": "14/09/1969",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "405",
+         "pvapn": "0.188429060"
+        },
+        {
+         "n": "9516",
+         "nm": "CANDIDATO 9516",
+         "nmu": "CANDIDATO 9516",
+         "dt": "01/06/1968",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "390",
+         "pvapn": "0.181450206"
+        },
+        {
+         "n": "9517",
+         "nm": "CANDIDATO 9517",
+         "nmu": "CANDIDATO 9517",
+         "dt": "12/09/1994",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "327",
+         "pvapn": "0.152139019"
+        },
+        {
+         "n": "9518",
+         "nm": "CANDIDATO 9518",
+         "nmu": "CANDIDATO 9518",
+         "dt": "26/09/1971",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "311",
+         "pvapn": "0.144694908"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "n": "96",
+     "nm": "Movimento Renova",
+     "tp": "i",
+     "com": "MRN",
+     "vag": "0",
+     "par": [
+      {
+       "n": "96",
+       "sg": "MRN",
+       "nm": "Movimento Renova",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "22173",
+       "tvtl": "1425",
+       "cand": [
+        {
+         "n": "9601",
+         "nm": "CANDIDATO 9601",
+         "nmu": "CANDIDATO 9601",
+         "dt": "09/10/1962",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "6913",
+         "pvapn": "3.216321213"
+        },
+        {
+         "n": "9602",
+         "nm": "CANDIDATO 9602",
+         "nmu": "CANDIDATO 9602",
+         "dt": "10/06/1968",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "3733",
+         "pvapn": "1.736804150"
+        },
+        {
+         "n": "9603",
+         "nm": "CANDIDATO 9603",
+         "nmu": "CANDIDATO 9603",
+         "dt": "09/05/1962",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "2207",
+         "pvapn": "1.026822062"
+        },
+        {
+         "n": "9604",
+         "nm": "CANDIDATO 9604",
+         "nmu": "CANDIDATO 9604",
+         "dt": "01/07/1974",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1606",
+         "pvapn": "0.747202643"
+        },
+        {
+         "n": "9605",
+         "nm": "CANDIDATO 9605",
+         "nmu": "CANDIDATO 9605",
+         "dt": "14/01/1961",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1154",
+         "pvapn": "0.536906507"
+        },
+        {
+         "n": "9606",
+         "nm": "CANDIDATO 9606",
+         "nmu": "CANDIDATO 9606",
+         "dt": "04/04/1959",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "926",
+         "pvapn": "0.430827925"
+        },
+        {
+         "n": "9607",
+         "nm": "CANDIDATO 9607",
+         "nmu": "CANDIDATO 9607",
+         "dt": "10/02/1964",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "782",
+         "pvapn": "0.363830926"
+        },
+        {
+         "n": "9608",
+         "nm": "CANDIDATO 9608",
+         "nmu": "CANDIDATO 9608",
+         "dt": "22/09/1994",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "721",
+         "pvapn": "0.335450252"
+        },
+        {
+         "n": "9609",
+         "nm": "CANDIDATO 9609",
+         "nmu": "CANDIDATO 9609",
+         "dt": "28/06/1978",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "561",
+         "pvapn": "0.261009142"
+        },
+        {
+         "n": "9610",
+         "nm": "CANDIDATO 9610",
+         "nmu": "CANDIDATO 9610",
+         "dt": "25/08/1996",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "541",
+         "pvapn": "0.251704004"
+        },
+        {
+         "n": "9611",
+         "nm": "CANDIDATO 9611",
+         "nmu": "CANDIDATO 9611",
+         "dt": "21/11/1960",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "525",
+         "pvapn": "0.244259893"
+        },
+        {
+         "n": "9612",
+         "nm": "CANDIDATO 9612",
+         "nmu": "CANDIDATO 9612",
+         "dt": "13/06/1996",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "428",
+         "pvapn": "0.199129970"
+        },
+        {
+         "n": "9613",
+         "nm": "CANDIDATO 9613",
+         "nmu": "CANDIDATO 9613",
+         "dt": "07/10/1987",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "409",
+         "pvapn": "0.190290088"
+        },
+        {
+         "n": "9614",
+         "nm": "CANDIDATO 9614",
+         "nmu": "CANDIDATO 9614",
+         "dt": "14/11/1965",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "410",
+         "pvapn": "0.190755345"
+        },
+        {
+         "n": "9615",
+         "nm": "CANDIDATO 9615",
+         "nmu": "CANDIDATO 9615",
+         "dt": "22/06/1990",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "370",
+         "pvapn": "0.172145067"
+        },
+        {
+         "n": "9616",
+         "nm": "CANDIDATO 9616",
+         "nmu": "CANDIDATO 9616",
+         "dt": "22/05/1982",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "315",
+         "pvapn": "0.146555936"
+        },
+        {
+         "n": "9617",
+         "nm": "CANDIDATO 9617",
+         "nmu": "CANDIDATO 9617",
+         "dt": "10/06/1961",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "290",
+         "pvapn": "0.134924512"
+        },
+        {
+         "n": "9618",
+         "nm": "CANDIDATO 9618",
+         "nmu": "CANDIDATO 9618",
+         "dt": "24/12/1985",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "282",
+         "pvapn": "0.131202457"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "n": "97",
+     "nm": "União Meridiana",
+     "tp": "i",
+     "com": "UMD",
+     "vag": "0",
+     "par": [
+      {
+       "n": "97",
+       "sg": "UMD",
+       "nm": "União Meridiana",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "16985",
+       "tvtl": "1166",
+       "cand": [
+        {
+         "n": "9701",
+         "nm": "CANDIDATO 9701",
+         "nmu": "CANDIDATO 9701",
+         "dt": "02/12/1965",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "6651",
+         "pvapn": "3.094423896"
+        },
+        {
+         "n": "9702",
+         "nm": "CANDIDATO 9702",
+         "nmu": "CANDIDATO 9702",
+         "dt": "06/10/1965",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "2619",
+         "pvapn": "1.218507921"
+        },
+        {
+         "n": "9703",
+         "nm": "CANDIDATO 9703",
+         "nmu": "CANDIDATO 9703",
+         "dt": "04/01/1966",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1642",
+         "pvapn": "0.763951892"
+        },
+        {
+         "n": "9704",
+         "nm": "CANDIDATO 9704",
+         "nmu": "CANDIDATO 9704",
+         "dt": "17/06/1996",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1341",
+         "pvapn": "0.623909554"
+        },
+        {
+         "n": "9705",
+         "nm": "CANDIDATO 9705",
+         "nmu": "CANDIDATO 9705",
+         "dt": "21/11/1977",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1047",
+         "pvapn": "0.487124014"
+        },
+        {
+         "n": "9706",
+         "nm": "CANDIDATO 9706",
+         "nmu": "CANDIDATO 9706",
+         "dt": "01/07/1995",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "895",
+         "pvapn": "0.416404960"
+        },
+        {
+         "n": "9707",
+         "nm": "CANDIDATO 9707",
+         "nmu": "CANDIDATO 9707",
+         "dt": "05/06/1984",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "622",
+         "pvapn": "0.289389816"
+        },
+        {
+         "n": "9708",
+         "nm": "CANDIDATO 9708",
+         "nmu": "CANDIDATO 9708",
+         "dt": "13/07/1973",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "546",
+         "pvapn": "0.254030288"
+        },
+        {
+         "n": "9709",
+         "nm": "CANDIDATO 9709",
+         "nmu": "CANDIDATO 9709",
+         "dt": "25/07/1972",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "499",
+         "pvapn": "0.232163212"
+        },
+        {
+         "n": "9710",
+         "nm": "CANDIDATO 9710",
+         "nmu": "CANDIDATO 9710",
+         "dt": "25/03/1969",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "445",
+         "pvapn": "0.207039337"
+        },
+        {
+         "n": "9711",
+         "nm": "CANDIDATO 9711",
+         "nmu": "CANDIDATO 9711",
+         "dt": "18/01/1992",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "361",
+         "pvapn": "0.167957755"
+        },
+        {
+         "n": "9712",
+         "nm": "CANDIDATO 9712",
+         "nmu": "CANDIDATO 9712",
+         "dt": "22/09/1983",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "317",
+         "pvapn": "0.147486449"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "n": "98",
+     "nm": "Partido Trabalho e Terra",
+     "tp": "i",
+     "com": "PTT",
+     "vag": "0",
+     "par": [
+      {
+       "n": "98",
+       "sg": "PTT",
+       "nm": "Partido Trabalho e Terra",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "10886",
+       "tvtl": "648",
+       "cand": [
+        {
+         "n": "9801",
+         "nm": "CANDIDATO 9801",
+         "nmu": "CANDIDATO 9801",
+         "dt": "28/09/1974",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "4329",
+         "pvapn": "2.014097285"
+        },
+        {
+         "n": "9802",
+         "nm": "CANDIDATO 9802",
+         "nmu": "CANDIDATO 9802",
+         "dt": "11/11/1991",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1908",
+         "pvapn": "0.887710238"
+        },
+        {
+         "n": "9803",
+         "nm": "CANDIDATO 9803",
+         "nmu": "CANDIDATO 9803",
+         "dt": "25/12/1978",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "1039",
+         "pvapn": "0.483401959"
+        },
+        {
+         "n": "9804",
+         "nm": "CANDIDATO 9804",
+         "nmu": "CANDIDATO 9804",
+         "dt": "02/11/1958",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "671",
+         "pvapn": "0.312187405"
+        },
+        {
+         "n": "9805",
+         "nm": "CANDIDATO 9805",
+         "nmu": "CANDIDATO 9805",
+         "dt": "21/04/1988",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "631",
+         "pvapn": "0.293577128"
+        },
+        {
+         "n": "9806",
+         "nm": "CANDIDATO 9806",
+         "nmu": "CANDIDATO 9806",
+         "dt": "02/04/1990",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "494",
+         "pvapn": "0.229836927"
+        },
+        {
+         "n": "9807",
+         "nm": "CANDIDATO 9807",
+         "nmu": "CANDIDATO 9807",
+         "dt": "28/03/1983",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "489",
+         "pvapn": "0.227510643"
+        },
+        {
+         "n": "9808",
+         "nm": "CANDIDATO 9808",
+         "nmu": "CANDIDATO 9808",
+         "dt": "23/06/1972",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "333",
+         "pvapn": "0.154930560"
+        },
+        {
+         "n": "9809",
+         "nm": "CANDIDATO 9809",
+         "nmu": "CANDIDATO 9809",
+         "dt": "18/05/1979",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "329",
+         "pvapn": "0.153069533"
+        },
+        {
+         "n": "9810",
+         "nm": "CANDIDATO 9810",
+         "nmu": "CANDIDATO 9810",
+         "dt": "28/04/1981",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "245",
+         "pvapn": "0.113987950"
+        },
+        {
+         "n": "9811",
+         "nm": "CANDIDATO 9811",
+         "nmu": "CANDIDATO 9811",
+         "dt": "12/08/1987",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "220",
+         "pvapn": "0.102356526"
+        },
+        {
+         "n": "9812",
+         "nm": "CANDIDATO 9812",
+         "nmu": "CANDIDATO 9812",
+         "dt": "18/08/1995",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "198",
+         "pvapn": "0.092120874"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "n": "99",
+     "nm": "Partido Novo Rumo",
+     "tp": "i",
+     "com": "PNR",
+     "vag": "0",
+     "par": [
+      {
+       "n": "99",
+       "sg": "PNR",
+       "nm": "Partido Novo Rumo",
+       "nfed": "",
+       "dvt": "Válido (legenda)",
+       "tvtn": "6136",
+       "tvtl": "388",
+       "cand": [
+        {
+         "n": "9901",
+         "nm": "CANDIDATO 9901",
+         "nmu": "CANDIDATO 9901",
+         "dt": "18/12/1974",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "2277",
+         "pvapn": "1.059390048"
+        },
+        {
+         "n": "9902",
+         "nm": "CANDIDATO 9902",
+         "nmu": "CANDIDATO 9902",
+         "dt": "05/12/1964",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "977",
+         "pvapn": "0.454556029"
+        },
+        {
+         "n": "9903",
+         "nm": "CANDIDATO 9903",
+         "nmu": "CANDIDATO 9903",
+         "dt": "01/09/1971",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "676",
+         "pvapn": "0.314513690"
+        },
+        {
+         "n": "9904",
+         "nm": "CANDIDATO 9904",
+         "nmu": "CANDIDATO 9904",
+         "dt": "28/12/1995",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "478",
+         "pvapn": "0.222392816"
+        },
+        {
+         "n": "9905",
+         "nm": "CANDIDATO 9905",
+         "nmu": "CANDIDATO 9905",
+         "dt": "10/10/1960",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "325",
+         "pvapn": "0.151208505"
+        },
+        {
+         "n": "9906",
+         "nm": "CANDIDATO 9906",
+         "nmu": "CANDIDATO 9906",
+         "dt": "13/07/1992",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "296",
+         "pvapn": "0.137716054"
+        },
+        {
+         "n": "9907",
+         "nm": "CANDIDATO 9907",
+         "nmu": "CANDIDATO 9907",
+         "dt": "17/11/1968",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "290",
+         "pvapn": "0.134924512"
+        },
+        {
+         "n": "9908",
+         "nm": "CANDIDATO 9908",
+         "nmu": "CANDIDATO 9908",
+         "dt": "17/02/1963",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "222",
+         "pvapn": "0.103287040"
+        },
+        {
+         "n": "9909",
+         "nm": "CANDIDATO 9909",
+         "nmu": "CANDIDATO 9909",
+         "dt": "05/12/1982",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "184",
+         "pvapn": "0.085607277"
+        },
+        {
+         "n": "9910",
+         "nm": "CANDIDATO 9910",
+         "nmu": "CANDIDATO 9910",
+         "dt": "11/09/1974",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "146",
+         "pvapn": "0.067927513"
+        },
+        {
+         "n": "9911",
+         "nm": "CANDIDATO 9911",
+         "nmu": "CANDIDATO 9911",
+         "dt": "10/01/1995",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "134",
+         "pvapn": "0.062344430"
+        },
+        {
+         "n": "9912",
+         "nm": "CANDIDATO 9912",
+         "nmu": "CANDIDATO 9912",
+         "dt": "22/04/1968",
+         "dvt": "Válido",
+         "e": "n",
+         "st": "",
+         "vap": "131",
+         "pvapn": "0.060948659"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "s": {
+  "ts": "8400",
+  "st": "1512",
+  "pst": "18,00",
+  "pstn": "18.00"
+ },
+ "v": {
+  "vv": "214935"
+ }
+}

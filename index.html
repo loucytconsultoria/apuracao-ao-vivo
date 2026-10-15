@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Apuração ao vivo</title>
+  <meta name="description" content="Painel estático que lê os resultados públicos do TSE a cada 30 segundos e calcula, no navegador, quociente eleitoral e vagas por partido.">
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+  <header class="topo">
+    <div class="miolo">
+      <h1>Apuração ao vivo</h1>
+      <p class="sub">Quociente eleitoral, vagas por partido e posição de um candidato, calculados no navegador a partir dos arquivos públicos do TSE.</p>
+      <div id="aviso-demo" class="aviso" hidden></div>
+      <form id="controles" class="controles" autocomplete="off">
+        <label>Eleição
+          <select id="sel-eleicao"></select>
+        </label>
+        <label>Candidato em foco (número)
+          <input id="in-numero" inputmode="numeric" pattern="[0-9]*" maxlength="6" placeholder="nenhum">
+        </label>
+        <label>Federação ou partido em foco
+          <select id="sel-partido"><option value="">nenhum</option></select>
+        </label>
+        <button type="button" id="bt-ler" class="botao">Ler agora</button>
+      </form>
+      <p id="vivo" class="vivo" role="status">Conectando…</p>
+    </div>
+  </header>
+
+  <main class="miolo" id="corpo">
+    <p class="vazio">Carregando…</p>
+  </main>
+
+  <footer class="rodape miolo">
+    <p>Fonte dos votos: arquivos públicos de divulgação do TSE. Esta página é uma ferramenta de acompanhamento e não substitui a proclamação oficial. Código sob licença MIT.</p>
+  </footer>
+
+  <script src="config.js"></script>
+  <script src="src/vagas.js"></script>
+  <script src="src/tse.js"></script>
+  <script src="src/app.js"></script>
+</body>
+</html>
